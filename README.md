@@ -1,5 +1,9 @@
 ## Hi there, I'm Giebert R. Delotavo 👋
 
+**`Full-Stack Developer (📱Mobile Application Developer/🖥️Window Application Developer/🌐Web Developer)`**
+
+I am a passionate and driven aspiring Software Developer with a keen interest in building visually appealing, responsive, and user-friendly web applications. I possess a solid foundation in HTML, CSS, and JavaScript, and I am actively expanding my expertise in modern frontend and backend technologies such as React.js and Flask. I thrive on learning new tools, embracing challenges, and continuously improving my coding skills to craft seamless digital experiences.
+
 <!--
 **GieExe/GieExe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
