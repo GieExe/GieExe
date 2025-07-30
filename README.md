@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Giebert R. Delotavo 👋</h1>
 
 
-`<h3> Full-Stack Developer (📱Mobile Application Developer/🖥️Window Application Developer/🌐Web Developer) <h3>`
+<h3 align="center">Full-Stack Developer (📱Mobile Application Developer/🖥️Window Application Developer/🌐Web Developer)</h3>
 
 ---
 
