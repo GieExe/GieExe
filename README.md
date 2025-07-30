@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://gieexe.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-333333?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Button" />
   </a>
   <a href="https://linkedin.com/in/your-profile" target="_blank">
