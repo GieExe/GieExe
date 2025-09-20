@@ -1,4 +1,4 @@
-```markdown
+
 # GieExe
 
 Modern WPF desktop application built with C# on the .NET Framework — designed with MVVM, custom styles, and a focus on a polished, beautiful UI.
@@ -72,4 +72,4 @@ License
 Contact
 - Maintainer: GieExe (https://github.com/GieExe)
 
-```
+
